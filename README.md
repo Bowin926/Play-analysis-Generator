@@ -2,6 +2,12 @@
 
 供 Codex 使用的剧本分析工作流。提供剧本附件或剧本名称，即可按统一结构生成剧本分析 Word、场景画面提示词和角色形象提示词。
 
+## 直接下载
+
+[下载完整 Skill 压缩包](https://github.com/Bowin926/Play-analysis-Generator/raw/refs/heads/main/downloads/play-analysis-generator.zip)
+
+解压后得到 `play-analysis-generator` 文件夹，按下面的路径复制即可安装。
+
 ## 安装方法与路径
 
 下载本仓库后，将包含 `SKILL.md` 和 `scripts/` 的完整文件夹命名为 `play-analysis-generator`，复制到以下任一位置：
